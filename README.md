@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/aditya172926/aditya172926/blob/main/gif2.gif#gh-dark-mode-only)
+![alt text](https://github.com/aditya172926/aditya172926/blob/main/gif2.gif#gh-light-mode-only)
 
