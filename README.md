@@ -11,8 +11,9 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Student, Software Developer and Open Source enthusiast pursuing Bachelors in Computer Science
-- Passionate about Machine Learning, Data Science, Blockchain and Web Development. 
-- Learning DevOps and more things to add on.
+- Passionate about Machine Learning, Data Science, Blockchain, Frontend and Backend Development
+- Learning DevOps and more things to add on
+- Most of my work is in Python, JavaScript, TypeScript, Solidity, HTML, CSS, Java, C and using frameworks like Angular, Ioinc, Django, Flask, Ethereum blockchain and getting more comfortable with these
 
 ## :computer: My Experiences
 - Worked as [Software Developer and Analyst (Setlor)](https://www.setlor.com/) from September 2019 - September 2021
