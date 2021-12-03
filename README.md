@@ -57,11 +57,11 @@
 ## :mailbox_with_mail: How to reach me
 You can reach me at the email in my github profile. Follow my socials!<br><br><br><br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40em" align="center" alt="Follow Aditya on LinkedIn" title="Follow Aditya on LinkedIn"/>](https://www.linkedin.com/in/aditya-26/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40em" align="center" alt="Follow Aditya on Site" title="Follow Aditya on site"/>](https://aditya26sg.pythonanywhere.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="40em" align="center" alt="Follow Aditya on Kaggle" title="Follow Aditya on Kaggle"/>](https://www.kaggle.com/aditya26sg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40em" align="center" alt="Follow Aditya on Medium" title="Follow Aditya on Medium"/>](https://medium.com/@aditya26sg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40em" align="center" alt="Follow Aditya on YouTube" title="Subscribe to YouTube"/>](https://www.youtube.com/channel/UC_Uf_dG5U5dd7FWpL7NA2GQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="40em" align="center" alt="Follow Aditya on Dev" title="Follow Aditya on Dev"/>](https://dev.to/aditya172926)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Site" title="Follow Aditya on site"/>](https://aditya26sg.pythonanywhere.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Kaggle" title="Follow Aditya on Kaggle"/>](https://www.kaggle.com/aditya26sg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Medium" title="Follow Aditya on Medium"/>](https://medium.com/@aditya26sg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on YouTube" title="Subscribe to YouTube"/>](https://www.youtube.com/channel/UC_Uf_dG5U5dd7FWpL7NA2GQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Dev" title="Follow Aditya on Dev"/>](https://dev.to/aditya172926)
 
 <br>
 © 2021 | Aditya Singh
