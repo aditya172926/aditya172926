@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gif_light_mode](https://github.com/aditya172926/aditya172926/blob/main/gif_light_mode.gif#gh-light-mode-only)
-![Gif_dark_mode](https://github.com/aditya172926/aditya172926/blob/main/gif_dark.gif#gh-dark-mode-only)
-<br>
-© 2021 | Aditya Singh
+
+
+<table>
+  <tr>
+    <td>
+      ![Gif_light_mode](https://github.com/aditya172926/aditya172926/blob/main/gif_light_mode.gif#gh-light-mode-only)
+      ![Gif_dark_mode](https://github.com/aditya172926/aditya172926/blob/main/gif_dark.gif#gh-dark-mode-only)
+      <br>
+      © 2021 | Aditya Singh
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Hi There!
+    </td>
+  </tr>
+</table>
