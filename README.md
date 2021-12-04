@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Aditya Singh
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -64,5 +64,9 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 
 <br>
 © 2021 | Aditya Singh
+<br><br>
+
+Readme stats credit- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
 
   
