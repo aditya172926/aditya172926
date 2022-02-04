@@ -39,6 +39,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Sqlite](https://img.shields.io/badge/-sqlite-black?style=flat-square&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -47,9 +48,10 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=Ionic)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=NodeJS)
 
 ### Other
-![Jupyter](https://img.shields.io/badge/-Jupyter-430098?style=flat-square&logo=jupyter)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
