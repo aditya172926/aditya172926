@@ -62,12 +62,12 @@
   
 ## :mailbox_with_mail: How to reach me
 You can reach me at the email in my github profile. Follow my socials!<br><br>
-[<img src="https://user-images.githubusercontent.com/54861484/152589016-97711032-6bff-4e26-a384-5c15360ebf18.png" width="4.2%">](https://www.linkedin.com/in/aditya-26/) &nbsp;
+[<img src="https://user-images.githubusercontent.com/54861484/152593021-a1bc7aa7-12c0-4b99-a925-97548ac9371d.png" width="4.2%">](https://www.linkedin.com/in/aditya-26/) &nbsp;
 [<img src="https://user-images.githubusercontent.com/54861484/152591769-04182ff9-5e71-4707-8f20-e6d9fa37abdd.png" width="4.2%">](https://aditya26sg.pythonanywhere.com/) &nbsp;
-
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Kaggle" title="Follow Aditya on Kaggle"/>](https://www.kaggle.com/aditya26sg)<br><br>
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Medium" title="Follow Aditya on Medium"/>](https://medium.com/@aditya26sg)<br><br>
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on YouTube" title="Subscribe to YouTube"/>](https://www.youtube.com/channel/UC_Uf_dG5U5dd7FWpL7NA2GQ)<br><br>
+[<img src="https://user-images.githubusercontent.com/54861484/152593294-657aa881-38e5-4511-8ea8-6444ab9c6667.png" width="4.2%">](https://medium.com/@aditya26sg) &nbsp;
+[<img src="https://user-images.githubusercontent.com/54861484/152593699-ddcaa67d-f01f-4b1f-a89a-af0d7f232455.png" width="4.2%">](https://www.youtube.com/channel/UC_Uf_dG5U5dd7FWpL7NA2GQ) &nbsp;
+[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="4.2%">](https://www.kaggle.com/aditya26sg) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/devpost.png" width="4.2%">](https://devpost.com/aditya26sg?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) &nbsp;
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Dev" title="Follow Aditya on Dev"/>](https://dev.to/aditya172926)
 
 <br>
@@ -77,10 +77,3 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 <h2 align="center">My Contributions Graph</h2>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aditya172926&theme=xcode) -->
-
-Readme stats credit- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.flaticon.com/free-icons/website" title="website icons">Website icons created by LAFS - Flaticon</a>
-![Website icons created by LAFS](https://www.flaticon.com/free-icons/web-site")
-<a href="https://www.flaticon.com/free-icons/web-site" title="web-site icons">Web-site icons created by Ilham Fitrotul Hayat - Flaticon</a>
-
-
