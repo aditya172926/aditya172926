@@ -54,7 +54,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-[<img src="https://user-images.githubusercontent.com/54861484/152589016-97711032-6bff-4e26-a384-5c15360ebf18.png">](https://www.linkedin.com/in/aditya-26/)
 
 <img align="left" style="padding-right:10px;" src = "https://github.com/aditya172926/aditya172926/blob/main/gif_light_mode.gif#gh-light-mode-only"/>
 <img align="left" padding-right=10px; src = "https://github.com/aditya172926/aditya172926/blob/main/gif_dark.gif#gh-dark-mode-only"/>
@@ -63,8 +62,9 @@
   
 ## :mailbox_with_mail: How to reach me
 You can reach me at the email in my github profile. Follow my socials!<br><br>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40em" align="center" alt="Follow Aditya on LinkedIn" title="Follow Aditya on LinkedIn"/>](https://www.linkedin.com/in/aditya-26/) <br><br>
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Site" title="Follow Aditya on site"/>](https://aditya26sg.pythonanywhere.com/) <br><br>
+[<img src="https://user-images.githubusercontent.com/54861484/152589016-97711032-6bff-4e26-a384-5c15360ebf18.png" width="4.2%">](https://www.linkedin.com/in/aditya-26/) &nbsp;
+[<img src="https://user-images.githubusercontent.com/54861484/152591769-04182ff9-5e71-4707-8f20-e6d9fa37abdd.png" width="4.2%">](https://aditya26sg.pythonanywhere.com/) &nbsp;
+
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Kaggle" title="Follow Aditya on Kaggle"/>](https://www.kaggle.com/aditya26sg)<br><br>
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Medium" title="Follow Aditya on Medium"/>](https://medium.com/@aditya26sg)<br><br>
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on YouTube" title="Subscribe to YouTube"/>](https://www.youtube.com/channel/UC_Uf_dG5U5dd7FWpL7NA2GQ)<br><br>
@@ -79,4 +79,8 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 ![](https://activity-graph.herokuapp.com/graph?username=aditya172926&theme=xcode) -->
 
 Readme stats credit- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.flaticon.com/free-icons/website" title="website icons">Website icons created by LAFS - Flaticon</a>
+![Website icons created by LAFS](https://www.flaticon.com/free-icons/web-site")
+<a href="https://www.flaticon.com/free-icons/web-site" title="web-site icons">Web-site icons created by Ilham Fitrotul Hayat - Flaticon</a>
+
 
