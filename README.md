@@ -15,17 +15,13 @@
 - Passionate about Machine Learning, Data Science, Blockchain, and Web Dev
 - Learning DevOps and more things to add on
 
-## :computer: My Experiences
-- Worked as [Software Developer and Analyst (Setlor)](https://www.setlor.com/) from September 2019 - September 2021
-- Interned with Indian Nuclear Society, AERB to work on Finite Element Analysis
-
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&theme=tokyonight) -->
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&count_private=true&theme=tokyonight"></a>
 </p>
 
-## Technologies
+## 💻 Technologies
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -49,6 +45,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=Ionic)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=NodeJS)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
+
 
 ### Other
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
