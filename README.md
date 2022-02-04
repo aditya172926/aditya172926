@@ -73,11 +73,10 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 <br>
 © 2022 | Aditya Singh
 <br><br>
-
+<!-- 
 <h2 align="center">My Contributions Graph</h2>
 
-![](https://activity-graph.herokuapp.com/graph?username=aditya172926&theme=xcode)
-
+![](https://activity-graph.herokuapp.com/graph?username=aditya172926&theme=xcode) -->
 
 Readme stats credit- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
