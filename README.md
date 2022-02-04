@@ -63,10 +63,13 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="40em" padding="5%" align="center" alt="Follow Aditya on Dev" title="Follow Aditya on Dev"/>](https://dev.to/aditya172926)
 
 <br>
-© 2021 | Aditya Singh
+© 2022 | Aditya Singh
 <br><br>
+
+<h2 align="center">My Contributions Graph</h2>
+
+![](https://activity-graph.herokuapp.com/graph?username=aditya172926&theme=xcode)
+
 
 Readme stats credit- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-
-  
