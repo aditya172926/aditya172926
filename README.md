@@ -38,15 +38,15 @@
 ![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
 
 ### Frameworks
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=Angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=Ionic)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=NodeJS)
+![NodeJS](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=nodejs)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-scikit_learn-black?style=flat-square&logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/-scikit_learn-white?style=flat-square&logo=scikitlearn)
 
 ### Other
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
