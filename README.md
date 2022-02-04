@@ -54,7 +54,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+[<img src="https://user-images.githubusercontent.com/54861484/152589016-97711032-6bff-4e26-a384-5c15360ebf18.png">](https://www.linkedin.com/in/aditya-26/)
 
 <img align="left" style="padding-right:10px;" src = "https://github.com/aditya172926/aditya172926/blob/main/gif_light_mode.gif#gh-light-mode-only"/>
 <img align="left" padding-right=10px; src = "https://github.com/aditya172926/aditya172926/blob/main/gif_dark.gif#gh-dark-mode-only"/>
