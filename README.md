@@ -46,7 +46,7 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=Ionic)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=NodeJS)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-scikit_learn-black?style=flat-square&logo=scikit_learn)
+![Scikit-learn](https://img.shields.io/badge/-scikit_learn-black?style=flat-square&logo=scikitlearn)
 
 ### Other
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
