@@ -73,7 +73,3 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 <br>
 © 2022 | Aditya Singh
 <br><br>
-<!-- 
-<h2 align="center">My Contributions Graph</h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=aditya172926&theme=xcode) -->
