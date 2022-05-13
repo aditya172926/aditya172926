@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ... -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Student, Software Developer and Open Source enthusiast pursuing Bachelors in Computer Science
-- Passionate about Machine Learning, Data Science, Blockchain, and Web Dev
+- Software Developer and Open Source enthusiast
+- Learning and Developing projects in Machine Learning, Data Science, Blockchain, and Web Dev domains.
 - Learning DevOps, Web3 and more things to add on
 
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&theme=tokyonight) -->
