@@ -12,8 +12,8 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Software Developer and Open Source enthusiast
-- Learning and Developing projects in Machine Learning, Data Science, Blockchain, and Web Dev domains.
-- Learning DevOps, Web3 and more things to add on
+- Contributing majorly in projects of Machine Learning, Data Science, Blockchain, and Web Dev domains.
+- Developing projects and learning about DevOps, Web3 and more things to add on.
 
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&theme=tokyonight) -->
 
