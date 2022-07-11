@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## <img width="190px" height="190px" src = "https://github.com/aditya172926/aditya172926/blob/main/gif_dark.gif#gh-dark-mode-only"/> <img width="190px" height="190px" src = "https://github.com/aditya172926/aditya172926/blob/main/gif_light_mode.gif#gh-light-mode-only"/> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## <img width="190px" height="190px" src = "https://github.com/aditya172926/aditya172926/blob/main/gif_dark.gif"/> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🚀 Full Stack Developer and active contributor to Open Source projects.
 - 🔭 Contributing work in Web Dev, Web3 & Blockchain,  ML, Data Science applications.
