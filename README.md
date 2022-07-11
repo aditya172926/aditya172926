@@ -11,9 +11,9 @@
 - ⚡ Fun fact: ... -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Software Developer and Open Source enthusiast
-- Contributing majorly in projects of Machine Learning, Data Science, Blockchain, and Web Dev domains.
-- Developing projects and learning about DevOps, Web3 and more things to add on.
+- Full Stack Developer and active contributor to Open Source projects.
+- Contributing work in Web Dev, Web3 & Blockchain,  ML, Data Science applications.
+- Would love to go for a competition, collaboration and work on exciting stuff with other people.
 
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&theme=tokyonight) -->
 
