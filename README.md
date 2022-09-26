@@ -53,6 +53,11 @@
 
 </div>
 <hr>
+
+## <p align='center'>Badges</p>
+[![@aditya26sg's Holopin board](https://holopin.io/api/user/board?user=aditya26sg)](https://holopin.io/@aditya26sg)
+
+<hr>
   
 ## <p align='center'>📫 How to reach me</p>
 <div align='center'>
