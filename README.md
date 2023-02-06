@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Aditya Singh</h1>
+<h1 align="center">Hi :)</h1>
 <hr>
 
 <!-- - 🔭 I’m currently working on ...
@@ -52,10 +52,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 </div>
-<hr>
-
-## <p align='center'>Badges</p>
-[![@aditya26sg's Holopin board](https://holopin.io/api/user/board?user=aditya26sg)](https://holopin.io/@aditya26sg)
 
 <hr>
   
@@ -74,7 +70,3 @@ You can reach me at the email in my github profile. Follow my socials!<br><br>
 
 <br>
 
-<div align='center'>
-<img width='250px' src = "https://github.com/aditya172926/aditya172926/blob/main/work_learn_expore.gif"/>
-</div>
-<br><br>
