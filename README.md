@@ -13,9 +13,9 @@
 ## <p align='center'>🤔 About Me</p>
 
 <div align='center'>
-🚀 Full Stack Developer and active contributor to Open Source projects.<br>
+🚀 Have a thing for Backend dev, but can also work Full Stack. Digging into OSS and COSS<br>
 🔭 Contributing work in Web Dev, Web3 & Blockchain,  ML, Data Science applications.<br>
-👯 Would love to go for a competition, collaboration and work on exciting stuff with other people.<br>
+👯 Would love to go for a competition, collaboration and work on exciting stuff with other people<br>
 </div>
 <br>
 <p align='center'>
@@ -28,7 +28,7 @@
 ### <p align='center'>Languages</p>
 <div align='center'>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust) ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=Solidity) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 </div>
 
