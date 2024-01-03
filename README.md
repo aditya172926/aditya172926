@@ -55,18 +55,22 @@
 
 <hr>
   
-## <p align='center'>📫 How to reach me</p>
 <div align='center'>
 
-You can reach me at the email in my github profile. Follow my socials!<br><br>
+You can reach me at the email in my github profile. Follow my socials!<br><be>
+
+## <p align='center'>Blogs</p>
+<a href='https://adityas.hashnode.dev/' target='_blank'><img src="https://img.shields.io/badge/hashnode-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white" alt="Follow Aditya on Dev" title="Follow Aditya on Hashnode"/></a>
+<a href='https://medium.com/@aditya26sg' target='_blank'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href='https://dev.to/aditya172926' target='_blank'><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow Aditya on Dev" title="Follow Aditya on Dev"/></a>
+
+## <p align='center'>📫 How to reach me</p>
 
 <a href='https://www.linkedin.com/in/aditya-26/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href='https://twitter.com/AdityaS25414560' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href='https://aditya26sg.pythonanywhere.com/' target='_blank'><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href='https://medium.com/@aditya26sg' target='_blank'><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href='https://www.kaggle.com/aditya26sg' target='_blank'><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href='https://devpost.com/aditya26sg?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav' target='_blank'><img src="https://img.icons8.com/color/48/000000/devpost.png" width="4.2%"></a>
-<a href='https://dev.to/aditya172926' target='_blank'><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow Aditya on Dev" title="Follow Aditya on Dev"/></a>
 
 <br>
 
