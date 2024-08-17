@@ -13,14 +13,30 @@
 ## <p align='center'>🤔 About Me</p>
 
 <div align='center'>
-🚀 Have a thing for Backend dev, but can also work Full Stack. Digging into OSS and COSS<br>
+🚀 Have a thing for Full stack dev. Digging into OSS and COSS<br>
 🔭 Contributing work in Web Dev, Web3 & Blockchain,  ML, Data Science applications.<br>
-👯 Would love to go for a competition, collaboration and work on exciting stuff with other people<br>
+👯 Would love to go for a competition, collaborate and work on exciting stuff with other people<br>
 </div>
 <br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&count_private=true&theme=tokyonight"></a>
 </p>
+
+|  Projects|Hackathons|Description|
+|-----------|---------|---------|
+|[BlockBatch SDK](https://ethglobal.com/showcase/blockbatch-3y8i8)| ETHGlobal, Superhack'24, Won Blockscout bounty 🏅 | Environment agnostic SDK for enabling native and ERC20 batch transactions over EVM chains |
+|[LensMaxi](https://ethglobal.com/showcase/lensmaxi-5ac1h)| ETHIndia'22, Won Lens Protocol Best Use 🏅 | Maximizing content impact with token streaming |
+| [XStream](https://devfolio.co/projects/xstream-4ac2) | ETHForAll'23, Won Superfluid + Connext Best Overall and Best Cross-chain dapp 🏅 | A cross-chain token streaming solution |
+| [Blockoverflow](https://devfolio.co/projects/blockoverflow-6b77) | ETHernals'22, Top 10 projects, Won ETHIndia Grants 🏅 | Real-time incentive payment system with streams for contributions and work among peers |
+| [Macha SDK](https://devpost.com/software/macha-sdk) | FVM Dataverse Hack'23, Spheron track winner 🏅 | Indexer coupled SDK that simplifies data access from EVM chains |
+
+## <p align='center'>Top/Recent Articles</p>
+|Articles|Description|
+|-----------|---------|
+|[AAVEv3 Price Change Simulation Project Tutorial](https://medium.com/@aditya26sg/aave-price-change-simulation-a6eb782ef812)| Simulation of sudden price change on the AAVE v3 liquidity protocol and see how it affects the users health factor in the market |
+|[State Channels- Off Chain Transactions?](https://medium.com/@aditya26sg/state-channels-off-chain-transactions-304f6cfceae2)| Workings of a state-channel to process transactions off-chain |
+| [Ethereum Gas: What is it? How does it work?](https://medium.com/@aditya26sg/ethereum-gas-what-is-it-how-does-it-work-e9a0dd82b72d) | Giving inside understanding of how Gas works in a blockchain transaction |
+| [Why are miners rewarded?](https://medium.com/@aditya26sg/why-are-miners-rewarded-7e3e619cc03a) | Understanding mining in PoW mechanism and rewards. |
 
 <hr>
 
