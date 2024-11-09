@@ -82,11 +82,8 @@ You can reach me at the email in my github profile. Follow my socials!<br><be>
 
 ## <p align='center'>📫 How to reach me</p>
 
-<a href='https://www.linkedin.com/in/aditya-26/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href='https://twitter.com/AdityaS25414560' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href='https://x.com/Aditya26sg' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href='https://aditya26sg.pythonanywhere.com/' target='_blank'><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href='https://www.kaggle.com/aditya26sg' target='_blank'><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-<a href='https://devpost.com/aditya26sg?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav' target='_blank'><img src="https://img.icons8.com/color/48/000000/devpost.png" width="4.2%"></a>
 
 <br>
 
