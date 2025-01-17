@@ -83,7 +83,6 @@ You can reach me at the email in my github profile. Follow my socials!<br><be>
 ## <p align='center'>📫 How to reach me</p>
 
 <a href='https://x.com/Aditya26sg' target='_blank'><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href='https://aditya26sg.pythonanywhere.com/' target='_blank'><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 <br>
 
