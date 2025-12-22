@@ -22,6 +22,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aditya172926&show_icons=true&count_private=true&theme=tokyonight"></a>
 </p>
 
+## <p align='center'>Hackathon Projects for Win!</p>
 |  Projects|Hackathons|Description|
 |-----------|---------|---------|
 |[BlockBatch SDK](https://ethglobal.com/showcase/blockbatch-3y8i8)| ETHGlobal, Superhack'24, Won Blockscout bounty 🏅 | Environment agnostic SDK for enabling native and ERC20 batch transactions over EVM chains |
